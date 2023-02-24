@@ -474,6 +474,13 @@ section.slider img{
 
 .list-products li{
     margin: 10px 20px;
+  
+}
+
+.list-products li a{
+color: #7b5244;  
+font-weight:bold;
+font-size: 18px;
 }
 
 .products-items{
@@ -484,8 +491,8 @@ section.slider img{
 }
 
 .products-item img{
-    width: 400px;
-    height: 400px;
+    width: 370px;
+    height: 420px;
 }
 
 .products-item{
@@ -517,7 +524,7 @@ section.slider img{
     height: 40px;
     background: var(--mainColor);
     text-align: center;
-    margin:0 2px;
+    margin:0 0px;
 }
 
 .productrs-overlay ul li i{
